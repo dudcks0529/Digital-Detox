@@ -62,11 +62,14 @@
 - 홈 화면  
   ![홈화면](./screenshots/home.png)
 
-- 타이머 설정 화면  
-  ![타이머](./screenshots/timer.png)
+- 접근성 설정 화면  
+  ![접근성](./screenshots/accessibility.png)
 
-- 사용 통계 화면  
-  ![통계](./screenshots/stats.png)
+- 차단할 앱 선택 화면 
+  ![앱 선택](./screenshots/list.png)
+
+- 디톡스 진행 화면 
+  ![디톡스 진행](./screenshots/challenge.png)
 
 ---
 
