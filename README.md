@@ -59,20 +59,28 @@
 
 <table>
   <tr>
-    <td align="center">홈화면</td>
+    <td align="center">로그인</td>
+    <td align="center">홈 화면</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/login.png" alt="로그인" width="300"/></td>
+    <td><img src="./screenshots/home.png" alt="홈 화면" width="300"/></td>
+  </tr>
+  <tr>
     <td align="center">접근성 설정</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/home.png" alt="홈화면" width="300"/></td>
-    <td><img src="./screenshots/accessibility.png" alt="접근성 설정" width="300"/></td>
-  </tr>
-  <tr>
     <td align="center">앱 선택</td>
-    <td align="center">디톡스 진행</td>
   </tr>
   <tr>
+    <td><img src="./screenshots/accessibility.png" alt="접근성 설정" width="300"/></td>
     <td><img src="./screenshots/list.png" alt="앱 선택" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">디톡스 진행</td>
+    <td align="center">커뮤니티</td>
+  </tr>
+  <tr>
     <td><img src="./screenshots/challenge.png" alt="디톡스 진행" width="300"/></td>
+    <td><img src="./screenshots/community.png" alt="커뮤니티" width="300"/></td>
   </tr>
 </table>
 
