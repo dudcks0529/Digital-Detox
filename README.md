@@ -57,17 +57,25 @@
 
 ## 📱 앱 UI
 
-### 홈 화면  
-  ![홈화면](./screenshots/home.png)
+<table>
+  <tr>
+    <td align="center">홈화면</td>
+    <td align="center">접근성</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/home.png" alt="홈화면" width="300"/></td>
+    <td><img src="./screenshots/accessibility.png" alt="접근성" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">앱 선택</td>
+    <td align="center">디톡스 진행</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/list.png" alt="앱 선택" width="300"/></td>
+    <td><img src="./screenshots/challenge.png" alt="디톡스 진행" width="300"/></td>
+  </tr>
+</table>
 
-### 접근성 설정 화면  
-  ![접근성](./screenshots/accessibility.png)
-
-### 차단할 앱 선택 화면 
-  ![앱 선택](./screenshots/list.png)
-
-### 디톡스 진행 화면 
-  ![디톡스 진행](./screenshots/challenge.png)
 
 ---
 
