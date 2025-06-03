@@ -55,20 +55,18 @@
 
 ---
 
-## 📱 앱 UI 예시
+## 📱 앱 UI
 
-> ※ 직접 캡처한 스크린샷으로 교체해주세요
-
-- 홈 화면  
+### 홈 화면  
   ![홈화면](./screenshots/home.png)
 
-- 접근성 설정 화면  
+### 접근성 설정 화면  
   ![접근성](./screenshots/accessibility.png)
 
-- 차단할 앱 선택 화면 
+### 차단할 앱 선택 화면 
   ![앱 선택](./screenshots/list.png)
 
-- 디톡스 진행 화면 
+### 디톡스 진행 화면 
   ![디톡스 진행](./screenshots/challenge.png)
 
 ---
