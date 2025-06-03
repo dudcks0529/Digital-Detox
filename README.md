@@ -31,7 +31,7 @@
 - 접근성 서비스(AppBlockAccessibilityService)로 지정한 앱 실행 시 자동 차단
 - 특정 앱 차단 타이머 설정
 - AndroidManifest.xml에 접근성 서비스 등록 및 사용자 설정 활성화 유도
-- 
+  
 ### ⏱️ 스마트폰 사용 시간 측정
 - UsageStatsManagerHelper로 앱 사용 시간 데이터 수집
 - MPAndroidChart 라이브러리로 일간 앱 사용시간 시각화
