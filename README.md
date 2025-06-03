@@ -60,11 +60,11 @@
 <table>
   <tr>
     <td align="center">홈화면</td>
-    <td align="center">접근성</td>
+    <td align="center">접근성 설정</td>
   </tr>
   <tr>
     <td><img src="./screenshots/home.png" alt="홈화면" width="300"/></td>
-    <td><img src="./screenshots/accessibility.png" alt="접근성" width="300"/></td>
+    <td><img src="./screenshots/accessibility.png" alt="접근성 설정" width="300"/></td>
   </tr>
   <tr>
     <td align="center">앱 선택</td>
