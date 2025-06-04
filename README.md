@@ -83,9 +83,3 @@
     <td><img src="./screenshots/community.png" alt="커뮤니티" width="300"/></td>
   </tr>
 </table>
-
-
----
-
-## 🗂️ 프로젝트 구조 예시
-
