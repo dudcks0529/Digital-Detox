@@ -27,7 +27,6 @@
 ## 🔑 기능 구현
 
 ### 💻 회원가입, 로그인
-- 회원 가입 시 비밀번호 firestore에 암호화되어 저장
 
 ### 🚨 앱 접근 제한
 - 접근성 서비스(AppBlockAccessibilityService)로 지정한 앱 실행 시 자동 차단
