@@ -19,9 +19,7 @@
 - **개발 언어** : Java (Android SDK)
 - **개발 환경** : Android Studio Hedgehog (2023.1.1.28)
 - **테스트 환경** : Medium Phone API 34(Emulator)
-- **라이브러리 / 외부 패키지** : MPAndroidChart, Firebase SDK, Material Components
 - **백엔드 / API 연동** : Firebase Authentication + Firestore 사용
-- **기기 접근 기술** : AccessibilityService – 앱 차단 기능 구현, UsageStatsManager – 앱 사용 시간 수집
 - **버전 관리 및 협업** : Git / GitHub + 주간 회의로 코드 통합
 
 ---
