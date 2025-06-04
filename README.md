@@ -47,8 +47,8 @@
 
 | 이름 | 역할 |
 |-------|------|
-| 김용우 | 팀장, 보고서 작성, 전체 UI |
-| **최영찬 (본인)** | 특정 앱 차단 기능, 앱 접근성 관리, 통계 화면 및 MPAndroidChart 적용, 전체 UI |
+| 김용우 | 팀장, 보고서 작성, 내 정보, 전체 UI |
+| **최영찬 (본인)** | 스마트폰 앱 차단 기능, 앱 접근성 관리, 통계 화면 및 MPAndroidChart 적용, 전체 UI |
 | 임수정 | Firebase 연동 및 Firestore 설정, 소스코드 관리 |
 | 한민주 | 로그인, 회원가입, 디톡스 진행시간에 따른 사용자 등급 부여 기능 |
 | 조준희 | 커뮤니티 기능 |
@@ -67,12 +67,12 @@
     <td><img src="./screenshots/home.png" alt="홈 화면" width="300"/></td>
   </tr>
   <tr>
-    <td align="center">접근성 설정</td>
-    <td align="center">앱 선택</td>
+    <td align="center">접근성 설정 화면 이동</td>
+    <td align="center">디톡스 할 앱 선택</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/accessibility.png" alt="접근성 설정" width="300"/></td>
-    <td><img src="./screenshots/list.png" alt="앱 선택" width="300"/></td>
+    <td><img src="./screenshots/accessibility.png" alt="접근성 설정 화면 이동" width="300"/></td>
+    <td><img src="./screenshots/list.png" alt="디톡스 할 앱 선택" width="300"/></td>
   </tr>
   <tr>
     <td align="center">디톡스 진행</td>
