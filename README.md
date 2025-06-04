@@ -14,16 +14,22 @@
 
 ---
 
-## 🛠 기술 스택
+## 📱 기술 스택
 
-- **개발 언어** : Java
-- **개발 환경** : Android Studio(Hedgehog), Firebase
-- **기능 구현** : 
-- **디자인 도구** : 
+- **개발 언어** : Java (Android SDK)
+- **개발 환경** : Android Studio Hedgehog (2023.1.1.28)
+- **테스트 환경** : Medium Phone API 34(Emulator)
+- **라이브러리 / 외부 패키지** : MPAndroidChart, Firebase SDK, Material Components
+- **백엔드 / API 연동** : Firebase Authentication + Firestore 사용
+- **기기 접근 기술** : AccessibilityService – 앱 차단 기능 구현, UsageStatsManager – 앱 사용 시간 수집
+- **버전 관리 및 협업** : Git / GitHub + 주간 회의로 코드 통합
 
 ---
 
 ## 🔑 주요 기능
+
+### 💻 회원가입, 로그인
+- 회원 가입 시 비밀번호 firestore에 암호화되어 저장
 
 ### 🚨 앱 접근 제한
 - 접근성 서비스(AppBlockAccessibilityService)로 지정한 앱 실행 시 자동 차단
@@ -34,8 +40,9 @@
 - UsageStatsManagerHelper로 앱 사용 시간 데이터 수집
 - MPAndroidChart 라이브러리로 일간 앱 사용시간 시각화
 
-### 🙍‍♂️ 커뮤니티
+### 🙍‍♂️ 커뮤니티 및 TOP10
 - 유저들 간 정보를 공유할 수 있는 커뮤니티 조성(게시판)
+- 디톡스 진행시간이 가장 높은 10명의 유저 닉네임 상시 게시
 
 ### 🧯 Firebase 연동
 - 회원가입 및 로그인, 사용자 정보 저장
